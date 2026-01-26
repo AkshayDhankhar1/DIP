@@ -1,4 +1,5 @@
-%created by - 
+%created by - Akshay
+% BTID- BT23ECE050
 clc;
 clear all;
 close all;
@@ -49,3 +50,4 @@ recover = uint8(recover);
 figure;
 imshow(recover);
 title('Recovered Image');
+
